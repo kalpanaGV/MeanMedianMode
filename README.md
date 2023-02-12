@@ -1,0 +1,2 @@
+# MeanMedianMode
+Central_Tendancy
